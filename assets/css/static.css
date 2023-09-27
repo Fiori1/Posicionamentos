@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background: azure;
+}
+
+main {
+    width: 660px;
+    background-color: brown;
+    font-size: 14px;
+    box-shadow: 0 0 10px #000;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+#principal {
+    background-color: azure;
+    border: 1px dotted #666;
+    margin-top: 20px;
+}
+
+section {
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+}
+
+.janela1 {
+    background-color: darkcyan;
+    position: static;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.janela2 {
+    background-color: gold;
+    margin-top: 20px;
+}
+
+.janela3 {
+    background-color: blue;
+}
