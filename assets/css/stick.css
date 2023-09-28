@@ -1,0 +1,19 @@
+main {
+    height: 3000px;
+    width: 100%;
+}
+
+#principal,
+#second-div {
+    height: 950px;
+    background-color: aquamarine;
+}
+
+#image {
+    background: url(../img/images.jpg) no-repeat;
+    width: 650px;
+    height: 250px;
+    top: 50px;
+    left: 50px;
+    position: sticky;
+}
